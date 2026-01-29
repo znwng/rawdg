@@ -1,0 +1,14 @@
+# Ignore binaries
+/bin/
+
+# Ignore build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore editor files
+*.swp
+.idea/
+.vscode/
+
